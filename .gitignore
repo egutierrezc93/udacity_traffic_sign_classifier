@@ -1,4 +1,8 @@
+.ipynb_checkpoints/
+.idea/
+README_udacity.md
 data/train.p
-data/test.p
-data/valid.p
-data
+set_git.sh
+data/traffic-signs-data.zip
+
+
